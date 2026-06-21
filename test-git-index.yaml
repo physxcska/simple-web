@@ -1,0 +1,3 @@
+cloneHtdocsFromGit.enabled: true
+cloneHtdocsFromGit.repository: https://github.com/physxcska/simple-web
+cloneHtdocsFromGit.branch: master
